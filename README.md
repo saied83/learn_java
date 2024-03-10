@@ -1,3 +1,3 @@
-## learn basics of java programming
+## Basics of java programming
 
-### resources: Learning Java For Complete Beginners
+### resource: [Learning Java For Complete Beginners](https://www.udemy.com/share/101qZM3@Z81FPdfoEX-qIGgRJbsMv5QMk2X1mS2lQq1lJ7IlTlqGPmHRKqexQ1-Bav-73KsHpg==/)
