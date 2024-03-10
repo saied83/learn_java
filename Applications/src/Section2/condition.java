@@ -1,3 +1,4 @@
+package Section2;
 public class condition {
     public static void main(String[] args) {
         int number = 90;
