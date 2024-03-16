@@ -1,7 +1,7 @@
-package Section2;
+package basics;
 import java.util.Scanner;
 
-public class switchCondition {
+public class SwitchCondition {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter Command: ");

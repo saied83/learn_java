@@ -1,5 +1,4 @@
-package Section2;
-import java.util.Scanner;
+package basics;
 
 public class Array {
     public static void main(String[] args){

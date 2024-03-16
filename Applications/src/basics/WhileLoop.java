@@ -1,5 +1,5 @@
-package Section2;
-public class whileLoop {
+package basics;
+public class WhileLoop {
     public static void main(String[] args) {
         int i = 0;
         String S = "";

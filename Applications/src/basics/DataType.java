@@ -1,5 +1,5 @@
-package Section2;
-public class dataType {
+package basics;
+public class DataType {
     public static void main(String[] args){
         short shortNum = 1;      // 16 bit
         int number = 12;     // 32 bit

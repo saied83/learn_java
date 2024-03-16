@@ -1,5 +1,5 @@
-package Section2;
-public class condition {
+package basics;
+public class Condition {
     public static void main(String[] args) {
         int number = 90;
         if (number%2 == 0){
